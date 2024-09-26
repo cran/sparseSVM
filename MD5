@@ -1,4 +1,4 @@
-1d1128e969de30839f977bdb46cd5941 *DESCRIPTION
+6e2ab927a69ce74b4e83d9028479a1a8 *DESCRIPTION
 fef9982f59f875be3f3919077d7e9f77 *NAMESPACE
 dbe405567fbd6ea2502d7a58e4f6fd93 *R/cv.sparseSVM.R
 101db784b7cce6234b9172301b3d55b8 *R/plot.cv.sparseSVM.R
@@ -6,13 +6,14 @@ dbe405567fbd6ea2502d7a58e4f6fd93 *R/cv.sparseSVM.R
 e1094f8c82fc492ef5b1999b951cd026 *R/predict.cv.sparseSVM.R
 12e7fec50ae11eb02dc9226f88a9050e *R/predict.sparseSVM.R
 1a738dd60bfa81dbf0a045f3f935c070 *R/sparseSVM.R
+8794332e2d2276a953271f994e651c85 *build/partial.rdb
 c006750f2202a0347c883fd31de2522d *cleanup
 6486d27f929e7443df7cf11b3bdbe77a *man/cv.sparseSVM.Rd
 164b8635fc4b9ff01de5144dc225485b *man/plot.cv.sparseSVM.Rd
 7f04f98f7969971127b0e74ef425b211 *man/plot.sparseSVM.Rd
 7e4301539bda211eb47e4326474e9416 *man/predict.cv.sparseSVM.Rd
 becd1ca00e58fdde92f46cd47c9841a3 *man/predict.sparseSVM.Rd
-95898d39152b6f944256518372a3a82f *man/sparseSVM-package.Rd
+1b2fcbd8e00f02e3ac568533cf7008f4 *man/sparseSVM-package.Rd
 e77495f56e6a62288c6a1df53b02c47d *man/sparseSVM.Rd
-8fd78f1c29028e65708f75328732cbe8 *src/initialize_svm.c
-c434b979ce1201f09c3167127ecc21cf *src/sparseSVM.c
+977aa3aac9677c2a567bc7fee57866be *src/init.c
+934354ef32f453cf7ecffb1e893d0f71 *src/sparseSVM.c

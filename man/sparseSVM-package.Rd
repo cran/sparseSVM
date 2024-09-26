@@ -1,14 +1,14 @@
 \name{sparseSVM-package}
 \alias{sparseSVM-package}
 \docType{package}
-\title{Solution Paths for Sparse High-Dimensional Support Vector Machine with Lasso or Elastic-Net Regularization}
+\title{Solution Paths for Sparse High-dimensional Support Vector Machine with Lasso or Elastic-Net Regularization}
 \description{Fast algorithm for fitting solution paths for sparse SVM regularized by lasso or elastic-net that generate sparse solutions.}
 \details{
 \tabular{ll}{
 Package: \tab sparseSVM\cr
 Type: \tab Package\cr
-Version: \tab 1.1-6\cr
-Date: \tab 2018-06-01\cr
+Version: \tab 1.1-7\cr
+Date: \tab 2024-09-23\cr
 License: \tab GPL-3\cr
 }
 Accepts \code{X,y} data for binary classification and
@@ -18,7 +18,7 @@ produces the solution path over a grid of values of the regularization parameter
 \references{Yi, C. and Huang, J. (2017) 
   \emph{Semismooth Newton Coordinate Descent Algorithm for 
   Elastic-Net Penalized Huber Loss Regression and Quantile Regression},
-  \url{https://www.tandfonline.com/doi/abs/10.1080/10618600.2016.1256816?journalCode=ucgs20} \cr
+  \doi{10.1080/10618600.2016.1256816} \cr
   \emph{Journal of Computational and Graphical Statistics} \cr
 }
 \author{
